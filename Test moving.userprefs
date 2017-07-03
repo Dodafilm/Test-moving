@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\ControllerCodymod.cs">
+    <Files>
+      <File FileName="Assets\script\Move.cs" Line="23" Column="3" NotebookId="1" />
+      <File FileName="Assets\script\ControllerCodymod.cs" Line="32" Column="21" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="-7" Y="75" Width="646" Height="933">
+        <Files>
+          <File FileName="Assets\script\Controller.cs" Line="34" Column="4" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
